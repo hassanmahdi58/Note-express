@@ -1,3 +1,5 @@
+const express = require('express');
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
