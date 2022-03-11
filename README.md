@@ -39,5 +39,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/94930434/157936992-d91c8f04-4a36-4bf5-a687-afbc8b91ee16.png)
 
+# Deployed.
 
+Heroku https://note-express2.herokuapp.com/
 
