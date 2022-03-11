@@ -34,6 +34,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 
-## Mock-Up
+## Mock-Up!
+[Screenshot (14)](https://user-images.githubusercontent.com/94930434/157936955-6a80ba7a-4625-407f-a17d-7a62c09ced30.png)
+
+![Screenshot (15)](https://user-images.githubusercontent.com/94930434/157936992-d91c8f04-4a36-4bf5-a687-afbc8b91ee16.png)
+
 
 
