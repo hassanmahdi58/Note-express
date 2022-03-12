@@ -45,7 +45,7 @@ Heroku https://note-express2.herokuapp.com/
 
 # REFERENCES:
 
-https://expressjs.com/
-https://www.w3schools.com/
-https://www.npmjs.com/
-https://www.youtube.com/watch?v=7S_tz1z_5bA
+* https://expressjs.com/
+* https://www.w3schools.com/
+* https://www.npmjs.com/
+* https://www.youtube.com/watch?v=7S_tz1z_5bA
