@@ -48,17 +48,17 @@ app.post("/api/notes", function (req, res) {
 app.delete("/api/notes/:id", function (req, res) {
     res.send('DELETE request at /api/notes/:id')
 
-    var id = req.params.id;
+    var newid = req.params.id;
 
-    var idu = notes.filter(function (u) {
-        return u.id < id;
+    var newud = notes.filter(function (u) {
+        return u.newid < newid;
     });
 
-    var idp = notes.filter(function (p) {
-        return p.id > id;
+    var newp = notes.filter(function (p) {
+        return p.id > newid;
     });
 
-    notes = idu.concat(idp);
+    notes = newud.concat(newp);
 
   keepnotedb();
 })
